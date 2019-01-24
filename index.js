@@ -11,6 +11,7 @@ function setCart(c) {
 
 function addToCart(item) {
  var item = {};
+ item[itemName] =  
 }
 
 function viewCart() {
