@@ -10,6 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
+  
   item = {};
   cart = [];
   item.name = name;
