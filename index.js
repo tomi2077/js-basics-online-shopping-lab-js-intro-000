@@ -10,11 +10,11 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  var item = {};
+  item = {};
   cart = [];
   item.name = name;
   item.price= price;
-  cart.push(element);
+  cart.push(item);
 }
 
 function viewCart() {
